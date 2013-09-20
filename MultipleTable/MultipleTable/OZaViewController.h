@@ -1,5 +1,5 @@
 //
-//  OZViewController.h
+//  OZaViewController.h
 //  MultipleTable
 //
 //  Created by Chalermchon Samana on 9/20/13.
@@ -8,7 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface OZViewController : UIViewController<UITableViewDataSource
->
+@interface OZaViewController : UITableViewController
 
 @end
